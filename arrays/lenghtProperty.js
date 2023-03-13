@@ -1,5 +1,5 @@
 // A propriedade .length
-// Uma das propriedades internas de uma matriz é lengthe retorna o número de itens na matriz. Acessamos a
+// Uma das propriedades internas de uma matriz é length. Ela retorna o número de itens na matriz. Acessamos a
 // propriedade .length da mesma forma que fazemos com strings.
 
 // Confira o exemplo abaixo:
